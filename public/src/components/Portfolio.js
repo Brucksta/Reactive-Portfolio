@@ -2,12 +2,6 @@ import React, { useState, PureComponent } from "react";
 import Slider from "react-slick";
 import { data } from './data'
 import "./Portfolio.scss";
-import bitbbl from "../img/bitcoin-bubbler.png";
-import calendarImg from "../img/calendar.png";
-import fitnessTracker from "../img/fitness-tracker.png";
-import noteTaker from "../img/note-taker.png";
-import sportsScheduler from "../img/sports-scheduler.png";
-import weatherImg from "../img/weather-app.png";
 import github from '../img/github.png'
 import link from '../img/link.png'
 
