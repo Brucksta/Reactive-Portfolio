@@ -2,8 +2,8 @@ import React, { useState, PureComponent } from "react";
 import Slider from "react-slick";
 import { data } from './data'
 import "./Portfolio.scss";
-import github from '../img/github.png'
-import link from '../img/link.png'
+import github from '../utils/github.png'
+import link from '../utils/link.png'
 
 
 export default class PortfolioSlider extends PureComponent {
