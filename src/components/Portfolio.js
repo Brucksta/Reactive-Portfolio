@@ -1,7 +1,6 @@
 import React, { useState, PureComponent } from "react";
 import Slider from "react-slick";
 import { data } from './data'
-import "./Portfolio.scss";
 import github from '../utils/github.png'
 import link from '../utils/link.png'
 
